@@ -1,124 +1,150 @@
 
 <h1 align="center">Hi 👋, I'm Sana Parveen</h1>
-<h3 align="center">Frontend Developer from Pakistan 🇵🇰</h3>
+
+<h3 align="center">
+Frontend Developer | Computer Science Student | Future Full-Stack Developer 🚀
+</h3>
 
 <p align="center">
-Passionate about building responsive, user-friendly, and modern web applications.
+Passionate about building modern, responsive, and user-friendly web applications.
+</p>
+
+<p align="center">
+  <a href="mailto:sanaparveen.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://linkedin.com/in/sanaparveen89">
+    <img src="https://img.shields.io/badge/LinkedIn-Sana_Parveen-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/sanaparveen-cmd">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
+  </a>
 </p>
 
 ---
 
-## 🚀 About Me
+## 👩‍💻 About Me
 
-- 🎓 Computer Science Student
-- 💻 Frontend Developer
-- 🌱 Currently learning **Django** and Backend Development
-- 🔭 Working on Web Development Projects
-- 🤝 Open to Internship and Junior Frontend Developer Opportunities
-- 📚 Focused on writing clean, maintainable, and scalable code
+✨ Computer Science Student
+
+💻 Frontend Developer passionate about crafting beautiful user experiences
+
+🌱 Currently learning **Django** and Backend Development
+
+🚀 Working towards becoming a **Full-Stack Developer**
+
+🎯 Interested in Web Development, Software Engineering, and Problem Solving
+
+🤝 Open to Internship and Junior Developer Opportunities
+
+---
+
+## 🚀 Current Experience
+
+### Frontend Web Development Intern
+- Building responsive and interactive web applications
+- Working with modern frontend technologies
+- Improving UI/UX and website performance
+
+### Software Development Intern
+- Collaborating on real-world software projects
+- Following professional development workflows
+- Learning industry best practices
+
+### Software Development Intern @ CodeAlpha
+- Developing practical projects
+- Enhancing problem-solving and coding skills
+- Applying frontend and programming concepts
 
 ---
 
 ## 🛠️ Tech Stack
 
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,python,javascript" />
+</p>
+
 ### Frontend Development
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
 </p>
 
 ### Backend & Database
-<p align="left">
+
+<p>
 <img src="https://skillicons.dev/icons?i=django,mysql" />
 </p>
 
-### Programming Languages
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,cpp" />
-</p>
-
 ### Tools
-<p align="left">
+
+<p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
 
-## 💡 What I Build
+## 📌 Featured Projects
 
-- Portfolio Websites
-- Landing Pages
-- Responsive Web Applications
-- React Projects
-- UI/UX Focused Interfaces
-- Modern Frontend Solutions
+🔹 Personal Portfolio Website
+
+🔹 Responsive Landing Pages
+
+🔹 Interactive Image Gallery
+
+🔹 JavaScript Calculator
+
+🔹 React-Based Web Applications
+
+🔹 UI/UX Focused Frontend Projects
 
 ---
 
 ## 🌱 Currently Learning
 
-- Django Framework
-- Backend Development
-- REST APIs
-- Full Stack Web Development
+```txt
+Frontend Development  ██████████ 100%
+JavaScript            █████████░ 90%
+React.js              ████████░░ 80%
+Django                ██████░░░░ 60%
+Backend Development   █████░░░░░ 50%
+````
 
 ---
 
-## 🏆 Experience
+## 🎯 2026 Goals
 
-### Frontend Web Development Intern
-- DevelopersHub Corporation
+✔ Master React.js
 
-### Software Development Intern
-- Arch Technologies
+✔ Learn Django Completely
 
-### Software Development Intern
-- CodeAlpha
+✔ Build Full-Stack Projects
 
----
+✔ Strengthen Data Structures & Algorithms
 
-## 📫 Connect With Me
-
-<p align="left">
-<a href="mailto:sanaparveen.dev@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-
-<a href="https://www.linkedin.com/in/sanaparveen89/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="https://github.com/sanaparveen-cmd" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-</p>
-
-📧 Email: **sanaparveen.dev@gmail.com**
+✔ Secure a Software Engineering Role
 
 ---
 
-## 📊 GitHub Stats
+## 📫 Let's Connect
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sanaparveen-cmd&show_icons=true&theme=tokyonight"/>
-</p>
+📧 Email: **[sanaparveen.dev@gmail.com](mailto:sanaparveen.dev@gmail.com)**
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanaparveen-cmd&layout=compact&theme=tokyonight"/>
-</p>
+💼 LinkedIn: **linkedin.com/in/sanaparveen89**
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanaparveen-cmd&theme=tokyonight"/>
-</p>
+🐙 GitHub: **github.com/sanaparveen-cmd**
 
 ---
 
-## ⚡ Fun Fact
+<h3 align="center">
+💡 "Every project I build teaches me something new."
+</h3>
 
-> Every project I build teaches me something new, which is why I'm always exploring new technologies and improving my development skills.
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sanaparveen-cmd&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+<h4 align="center">
+Thanks for visiting my profile! ⭐
+</h4>
 
