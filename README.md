@@ -43,20 +43,15 @@ Passionate about building modern, responsive, and user-friendly web applications
 
 ## 🚀 Current Experience
 
-### Frontend Web Development Intern
+### Frontend Web Development Intern @DevelopersHubCorporation
 - Building responsive and interactive web applications
 - Working with modern frontend technologies
 - Improving UI/UX and website performance
 
-### Software Development Intern
+### Web Development Intern  @ArchTechnologies
 - Collaborating on real-world software projects
 - Following professional development workflows
 - Learning industry best practices
-
-### Software Development Intern @ CodeAlpha
-- Developing practical projects
-- Enhancing problem-solving and coding skills
-- Applying frontend and programming concepts
 
 ---
 
