@@ -18,199 +18,233 @@ Passionate about building modern, scalable, and user-friendly web applications w
     <img src="https://img.shields.io/badge/LinkedIn-Sana_Parveen-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/SANAPARVEEN-cmd">
     <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;BSCS+Student;Future+Software+Engineer;Building+Scalable+Web+Applications;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;BSCS+Student;Future+Software+Engineer;Building+Scalable+Web+Applications;Learning+Every+Day;Passionate+About+Software+Engineering" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SANAPARVEEN-cmd&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
 # 🚀 About Me
 
-🎓 I'm a BSCS Student passionate about technology and software development.
+🎓 BSCS Student passionate about Software Engineering and Web Development.
 
-💻 Full-Stack Developer focused on creating responsive, scalable, and user-friendly web applications.
+💻 Full-Stack Developer focused on building responsive, scalable, and user-friendly web applications.
 
-🌱 Continuously learning modern web technologies, software engineering principles, and best development practices.
+🧠 Strengthening problem-solving skills through Data Structures & Algorithms.
 
-🧠 Improving problem-solving skills through Data Structures & Algorithms.
+🌱 Continuously learning software engineering principles, backend development, and modern web technologies.
 
-🔭 Working on personal projects that solve real-world problems and enhance user experiences.
+🔭 Building real-world projects to improve technical expertise and practical experience.
 
-🎯 Interested in Full-Stack Development, Software Engineering, Web Applications, System Design, and Emerging Technologies.
+🎯 Interested in Full-Stack Development, Software Engineering, System Design, and Scalable Applications.
 
-⚡ Goal: To become a highly skilled Software Engineer capable of building impactful products at scale.
+⚡ Goal: To become a highly skilled Software Engineer capable of creating impactful digital products.
 
 ---
 
 # 🎯 2026 Goals
 
-- 🚀 Master the MERN Stack Development
-- 💻 Build Multiple Production-Level Full-Stack Applications
-- 🧠 Strengthen Data Structures & Algorithms
-- 📚 Improve Programming Fundamentals
+- 🚀 Deeply Learn MERN Stack Development
+- 💻 Build Production-Level Full-Stack Applications
+- 🧠 Master Data Structures & Algorithms
+- 📚 Strengthen Programming Fundamentals
 - 🔥 Learn Advanced JavaScript Concepts
-- ⚙️ Learn Backend Architecture & API Design
-- ☁️ Explore Cloud Deployment & DevOps Basics
+- ⚙️ Master REST API Development
+- ☁️ Learn Cloud Deployment Fundamentals
 - 🤝 Contribute to Open Source Projects
-- 🏆 Secure a Software Engineering Role
-- 📈 Continue Growing as a Full-Stack Developer
+- 🏆 Land a Software Engineering Role
+- 📈 Grow into a Professional Full-Stack Engineer
 
 ---
 
 # 🌱 Currently Learning
 
-- MERN Stack Development
-- Advanced JavaScript
-- React Ecosystem
 - Django Backend Development
 - REST API Development
-- Node.js & Express.js
-- MongoDB
+- React Ecosystem
+- Advanced JavaScript
 - Data Structures & Algorithms
-- Software Engineering Concepts
+- Software Engineering Principles
+- System Design Fundamentals
+- Clean Code Practices
 - Git & GitHub Collaboration
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠️ Tech Stack & Skills
 
-## Frontend
+### 🎨 Frontend Development
 
-<p align="left">
+<p>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
 </p>
 
-## Backend
+### ⚙️ Backend Development
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=django,nodejs,express" />
+<p>
+<img src="https://skillicons.dev/icons?i=django" />
 </p>
 
-## Database
+### 🗄️ Database
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=sqlite,mongodb" />
+<p>
+<img src="https://skillicons.dev/icons?i=sqlite" />
 </p>
 
-## Programming Languages
+### 💻 Programming Languages
 
-<p align="left">
+<p>
 <img src="https://skillicons.dev/icons?i=javascript,python" />
 </p>
 
-## APIs & Tools
+### 🧰 Tools & Platforms
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=postman,git,github,vscode,figma" />
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
 </p>
 
-- REST APIs
-- Git Version Control
-- Responsive Web Design
-- API Integration
-- Authentication Systems
+### 🚀 Additional Skills
+
+![REST API](https://img.shields.io/badge/REST_API-blue?style=for-the-badge)
+![API Integration](https://img.shields.io/badge/API_Integration-green?style=for-the-badge)
+![Responsive Design](https://img.shields.io/badge/Responsive_Design-orange?style=for-the-badge)
+![Authentication](https://img.shields.io/badge/Authentication-yellow?style=for-the-badge)
+![Problem Solving](https://img.shields.io/badge/Problem_Solving-purple?style=for-the-badge)
+![DSA](https://img.shields.io/badge/Data_Structures_&_Algorithms-red?style=for-the-badge)
 
 ---
 
 # 💼 Featured Personal Projects
 
-## 🚀 Convix – SaaS Landing Page
+<table>
+<tr>
+<td width="50%">
 
-### 📸 Project Preview
-<!-- ADD IMAGE HERE -->
+### 🚀 Convix – SaaS Landing Page
 
-Modern SaaS landing page designed with a clean and professional user experience.
+<img src="images/convix.png" width="100%"/>
 
-### Features
+Modern SaaS Landing Page with responsive design and engaging UI.
+
+**Features**
 - Responsive Design
-- Modern UI/UX
 - Interactive Components
+- Modern UI/UX
 - Mobile Friendly
 - Fast Performance
 
-### Tech Stack
-HTML • CSS • JavaScript • React
+**Tech Stack**
 
----
+`React` `JavaScript` `CSS`
 
-## 👨‍💻 DevLoom – Developer Collaboration Platform
+</td>
 
-### 📸 Project Preview
-<!-- ADD IMAGE HERE -->
+<td width="50%">
 
-A platform designed for developers to connect, collaborate, and share ideas.
+### 👨‍💻 DevLoom – Developer Collaboration Platform
 
-### Features
+<img src="images/devloom.png" width="100%"/>
+
+Developer-focused platform for networking and collaboration.
+
+**Features**
 - Developer Profiles
 - Project Sharing
-- Team Collaboration
-- Community Interaction
-- Networking Opportunities
+- Collaboration Tools
+- Community Features
+- Networking
 
-### Tech Stack
-React • JavaScript • Tailwind CSS
+**Tech Stack**
 
----
+`React` `JavaScript` `Tailwind CSS`
 
-## 📚 FocusForge – Smart Study Planner
+</td>
+</tr>
 
-### 📸 Project Preview
-<!-- ADD IMAGE HERE -->
+<tr>
+<td width="50%">
 
-A productivity platform that helps students manage their learning journey efficiently.
+### 📚 FocusForge – Smart Study Planner
 
-### Features
-- Study Planning
+<img src="images/focusforge.png" width="100%"/>
+
+Productivity platform designed for students.
+
+**Features**
+- Study Planner
 - Task Management
-- Progress Tracking
+- Goal Tracking
 - Productivity Dashboard
-- Goal Setting
+- Progress Monitoring
 
-### Tech Stack
-React • JavaScript • Tailwind CSS
+**Tech Stack**
 
----
+`React` `JavaScript` `Tailwind CSS`
 
-## 🤝 Nexus – Connect Entrepreneurs & Investors
+</td>
 
-### 📸 Project Preview
-<!-- ADD IMAGE HERE -->
+<td width="50%">
 
-A platform connecting entrepreneurs with investors and business opportunities.
+### 🤝 Nexus – Connect Entrepreneurs & Investors
 
-### Features
-- Entrepreneur Profiles
+<img src="images/nexus.png" width="100%"/>
+
+Platform connecting entrepreneurs with investors.
+
+**Features**
+- Startup Showcase
 - Investor Discovery
-- Startup Showcases
-- Networking Features
-- Business Growth Opportunities
+- Networking
+- Business Opportunities
+- Entrepreneur Profiles
 
-### Tech Stack
-React • TypeScript
+**Tech Stack**
 
----
+`React` `TypeScript`
 
-## 🛡️ TruthGuard – Digital Scam & Fraud Prevention Platform
+</td>
+</tr>
 
-### 📸 Project Preview
-<!-- ADD IMAGE HERE -->
+<tr>
+<td width="50%">
 
-A security-focused platform aimed at raising awareness and preventing online fraud.
+### 🛡️ TruthGuard – Scam & Fraud Prevention Platform
 
-### Features
+<img src="images/truthguard.png" width="100%"/>
+
+Awareness platform focused on online safety.
+
+**Features**
 - Scam Detection
 - Fraud Reporting
+- User Education
 - Safety Resources
 - Awareness Campaigns
-- User Education
 
-### Tech Stack
-React • JavaScript • Tailwind CSS
+**Tech Stack**
+
+`React` `JavaScript` `Tailwind CSS`
+
+</td>
+
+<td width="50%">
+
+### 🚀 More Projects Coming Soon
+
+Building exciting Full-Stack Applications and Software Engineering Projects.
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -254,15 +288,19 @@ React • JavaScript • Tailwind CSS
 
 # 🌟 Fun Facts
 
-- 💻 I enjoy building real-world projects.
-- 📚 I love learning new technologies.
-- 🚀 Passionate about Software Engineering.
-- 🎯 Always looking for opportunities to grow.
-- 🌱 Lifelong Learner.
+💻 Love Building Real-World Projects
+
+📚 Lifelong Learner
+
+🚀 Passionate About Software Engineering
+
+🎯 Focused On Continuous Growth
+
+🌱 Exploring New Technologies Every Day
 
 ---
 
-# 🤝 Connect With Me
+# 🤝 Let's Connect
 
 <p align="center">
   <a href="mailto:sanaparveen.dev@gmail.com">
@@ -273,7 +311,7 @@ React • JavaScript • Tailwind CSS
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/SANAPARVEEN-cmd">
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
@@ -281,6 +319,5 @@ React • JavaScript • Tailwind CSS
 ---
 
 <p align="center">
-  <b>⭐ Building Today, Learning Every Day, Engineering the Future ⭐</b>
+⭐ <b>Building Today, Learning Every Day, Engineering the Future.</b> ⭐
 </p>
-
