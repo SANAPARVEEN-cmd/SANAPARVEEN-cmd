@@ -97,7 +97,8 @@ Passionate about building modern, scalable, and user-friendly web applications w
 ### 🗄️ Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=sqlite" />
+  <img src="https://skillicons.dev/icons?i=sqlite,mysql" />
+
 </p>
 
 ### 💻 Programming Languages
@@ -109,7 +110,7 @@ Passionate about building modern, scalable, and user-friendly web applications w
 ### 🧰 Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,netlify" />
 </p>
 
 ### 🚀 Additional Skills
