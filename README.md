@@ -132,7 +132,7 @@ Passionate about building modern, scalable, and user-friendly web applications w
 
 ### 🚀 Convix – SaaS Landing Page
 
-<img src="images/convix.png" width="100%"/>
+<img src="assets/convix_preview.png" width="100%"/>
 
 Modern SaaS Landing Page with responsive design and engaging UI.
 
@@ -220,7 +220,7 @@ Platform connecting entrepreneurs with investors.
 
 ### 🛡️ TruthGuard – Scam & Fraud Prevention Platform
 
-<img src="images/truthguard.png" width="100%"/>
+<img src="assets/truthguard_preview.png" width="100%"/>
 
 Awareness platform focused on online safety.
 
