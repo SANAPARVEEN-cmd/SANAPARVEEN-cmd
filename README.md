@@ -151,50 +151,6 @@ Modern SaaS Landing Page with responsive design and engaging UI.
 
 <td width="50%">
 
-### 👨‍💻 DevLoom – Developer Collaboration Platform
-
-<img src="images/devloom.png" width="100%"/>
-
-Developer-focused platform for networking and collaboration.
-
-**Features**
-- Developer Profiles
-- Project Sharing
-- Collaboration Tools
-- Community Features
-- Networking
-
-**Tech Stack**
-
-`React` `JavaScript` `Tailwind CSS`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 📚 FocusForge – Smart Study Planner
-
-<img src="images/focusforge.png" width="100%"/>
-
-Productivity platform designed for students.
-
-**Features**
-- Study Planner
-- Task Management
-- Goal Tracking
-- Productivity Dashboard
-- Progress Monitoring
-
-**Tech Stack**
-
-`React` `JavaScript` `Tailwind CSS`
-
-</td>
-
-<td width="50%">
-
 ### 🤝 Nexus – Connect Entrepreneurs & Investors
 
 <img src="images/nexus.png" width="100%"/>
