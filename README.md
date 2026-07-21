@@ -153,7 +153,7 @@ Modern SaaS Landing Page with responsive design and engaging UI.
 
 ### 🤝 Nexus – Connect Entrepreneurs & Investors
 
-<img src="images/nexus.png" width="100%"/>
+<img src="assets/nexus.png" width="100%"/>
 
 Platform connecting entrepreneurs with investors.
 
