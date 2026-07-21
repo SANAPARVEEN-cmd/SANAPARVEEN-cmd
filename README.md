@@ -50,36 +50,6 @@ Passionate about building modern, scalable, and user-friendly web applications w
 ⚡ Goal: To become a highly skilled Software Engineer capable of creating impactful digital products.
 
 ---
-
-# 🎯 2026 Goals
-
-- 🚀 Deeply Learn MERN Stack Development
-- 💻 Build Production-Level Full-Stack Applications
-- 🧠 Master Data Structures & Algorithms
-- 📚 Strengthen Programming Fundamentals
-- 🔥 Learn Advanced JavaScript Concepts
-- ⚙️ Master REST API Development
-- ☁️ Learn Cloud Deployment Fundamentals
-- 🤝 Contribute to Open Source Projects
-- 🏆 Land a Software Engineering Role
-- 📈 Grow into a Professional Full-Stack Engineer
-
----
-
-# 🌱 Currently Learning
-
-- Django Backend Development
-- REST API Development
-- React Ecosystem
-- Advanced JavaScript
-- Data Structures & Algorithms
-- Software Engineering Principles
-- System Design Fundamentals
-- Clean Code Practices
-- Git & GitHub Collaboration
-
----
-
 # 🛠️ Tech Stack & Skills
 
 ### 🎨 Frontend Development
