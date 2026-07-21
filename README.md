@@ -145,7 +145,7 @@ Modern SaaS Landing Page with responsive design and engaging UI.
 
 **Tech Stack**
 
-`React` `JavaScript` `CSS`
+`React` `JavaScript` `Tailwind Css`
 
 </td>
 
@@ -189,7 +189,7 @@ Awareness platform focused on online safety.
 
 **Tech Stack**
 
-`React` `JavaScript` `Tailwind CSS`
+`JavaScript` `Django` `Sqlite` `Tailwind CSS`
 
 </td>
 
