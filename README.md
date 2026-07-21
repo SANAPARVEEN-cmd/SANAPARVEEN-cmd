@@ -135,7 +135,7 @@ Passionate about building modern, scalable, and user-friendly web applications w
 <img src="assets/convix_preview.png" width="100%"/>
 
 Modern SaaS Landing Page with responsive design and engaging UI.
-
+<a href = "https://convixsaaslanding.netlify.app/">Live demo</a>
 **Features**
 - Responsive Design
 - Interactive Components
@@ -156,7 +156,7 @@ Modern SaaS Landing Page with responsive design and engaging UI.
 <img src="assets/nexus.png" width="100%"/>
 
 Platform connecting entrepreneurs with investors.
-
+<a href = "https://nexus-two-dun.vercel.app/">Live demo </a>
 **Features**
 - Startup Showcase
 - Investor Discovery
@@ -179,7 +179,7 @@ Platform connecting entrepreneurs with investors.
 <img src="assets/truthguard_preview.png" width="100%"/>
 
 Awareness platform focused on online safety.
-
+<a href = "https://truthguard12.pythonanywhere.com/">live demo </a>
 **Features**
 - Scam Detection
 - Fraud Reporting
