@@ -167,7 +167,7 @@ Awareness platform focused on online safety.
   
 ### ResQNet | Disaster Relief & Emergency Response Platform,
 
-<img src="assets/git .png" width="100%"/>
+<img src="assets/git im.png" width="100%"/>
 
 Awareness platform focused on online safety.
 <a href = "https://theresqnet.netlify.app/">live demo </a>
@@ -186,7 +186,8 @@ Awareness platform focused on online safety.
 
 <td width="50%">
   
-
+</tr>
+<tr>
 ### 🚀 More Projects Coming Soon
 
 Building exciting Full-Stack Applications and Software Engineering Projects.
