@@ -340,23 +340,25 @@ I am actively improving my problem-solving skills through **Data Structures & Al
 
 ---
 
-# 📈 Contribution Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=SANAPARVEEN-cmd&bg_color=0B1020&color=67E8F9&line=2563EB&point=F8FAFC&area=true&hide_border=true"
-    width="100%"
-  />
-</p>
-
----
-
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SANAPARVEEN-cmd/SANAPARVEEN-cmd/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/SANAPARVEEN-cmd/SANAPARVEEN-cmd/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/SANAPARVEEN-cmd/SANAPARVEEN-cmd/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/SANAPARVEEN-cmd/SANAPARVEEN-cmd/output/github-contribution-grid-snake.svg"
+      alt="GitHub Contribution Snake"
+      width="100%"
+    />
+  </picture>
 </p>
-
 ---
 
 # 🌱 My Development Journey
