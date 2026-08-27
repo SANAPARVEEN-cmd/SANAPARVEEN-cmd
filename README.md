@@ -1,273 +1,251 @@
-<img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/52495725-707e-4ddd-ba0e-d9fbd54202a0" />
-<h1 align="center">Hi 👋, I'm Sana Parveen</h1>
+<div align="center">
 
-<h3 align="center">
-💻 Full-Stack Developer | 🎓 BSCS Student | 🚀 Future Software Engineer
-</h3>
+<img width="90" height="90" alt="profile" src="https://github.com/user-attachments/assets/52495725-707e-4ddd-ba0e-d9fbd54202a0" style="border-radius:50%;" />
 
-<p align="center">
-Passionate about building modern, scalable, and user-friendly web applications while continuously learning software engineering, full-stack development, problem-solving, and emerging technologies.
-</p>
+# Hi, I'm Sana Parveen 👋
 
-<p align="center">
-  <a href="mailto:sanaparveen.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-  <a href="https://linkedin.com/in/sanaparveen89">
-    <img src="https://img.shields.io/badge/LinkedIn-Sana_Parveen-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <a href="https://github.com/SANAPARVEEN-cmd">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;BSCS+Student;Future+Software+Engineer;Building+Scalable+Web+Applications;Learning+Every+Day;Passionate+About+Software+Engineering" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SANAPARVEEN-cmd&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
----
-
-# 🚀 About Me
-
-🎓 BSCS Student passionate about Software Engineering and Web Development.
-
-💻 Full-Stack Developer focused on building responsive, scalable, and user-friendly web applications.
-
-🧠 Strengthening problem-solving skills through Data Structures & Algorithms.
-
-🌱 Continuously learning software engineering principles, backend development, and modern web technologies.
-
-🔭 Building real-world projects to improve technical expertise and practical experience.
-
-🎯 Interested in Full-Stack Development, Software Engineering, System Design, and Scalable Applications.
-
-⚡ Goal: To become a highly skilled Software Engineer capable of creating impactful digital products.
-
----
-# 🛠️ Tech Stack & Skills
-
-### 🎨 Frontend Development
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;BSCS+Student+%7C+4.0+GPA;React+%2B+Django+Developer;Currently+Interning+%40+Arch+Technologies;Building+Scalable+Web+Applications;Always+Learning%2C+Always+Shipping" alt="Typing SVG" />
 
 <p>
+  <img src="https://img.shields.io/badge/dynamic/json?color=6C63FF&label=Profile%20Views&query=%24.count&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fsanaparveen-cmd%2Freadme&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/SANAPARVEEN-cmd?label=Followers&style=flat-square&color=6C63FF" alt="Followers" />
+  <img src="https://img.shields.io/badge/Status-Open_to_Internships-success?style=flat-square" alt="Open to internships" />
+</p>
+
+<p>
+  <a href="mailto:sanaparveen.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/sanaparveen89"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/SANAPARVEEN-cmd"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+<p>
+  <a href="#-about-me">About</a> •
+  <a href="#️-tech-stack--skills">Tech Stack</a> •
+  <a href="#-featured-projects">Projects</a> •
+  <a href="#-github-stats">Stats</a> •
+  <a href="#-lets-connect">Contact</a>
+</p>
+
+</div>
+
+<br/>
+
+## 📌 About Me
+
+- 🎓 BSCS student with a **4.0 GPA**, passionate about software engineering and web development
+- 💼 Currently interning as a **Web Developer at Arch Technologies** (remote), working with React.js, Tailwind CSS, and Git/GitHub
+- 💻 Full-stack developer focused on building responsive, scalable, and user-friendly web applications
+- 🧠 Sharpening problem-solving skills through Data Structures & Algorithms and database coursework
+- 🔭 Building real-world projects to grow technical expertise and interview readiness
+- 🎯 Interested in full-stack development, system design, and scalable applications
+- ⚡ Goal: become a highly skilled software engineer who ships impactful digital products
+
+<br/>
+
+## 🛠️ Tech Stack & Skills
+
+**Frontend**
+
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
-</p>
 
-### ⚙️ Backend Development
+**Backend & Databases**
 
-<p>
-<img src="https://skillicons.dev/icons?i=django" />
-</p>
+<img src="https://skillicons.dev/icons?i=django,sqlite,mysql" />
 
-### 🗄️ Database
+**Languages**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=sqlite,mysql" />
-
-</p>
-
-### 💻 Programming Languages
-
-<p>
 <img src="https://skillicons.dev/icons?i=javascript,python" />
-</p>
 
-### 🧰 Tools & Platforms
+**Tools & Platforms**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,netlify" />
+
+**Core Competencies**
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,netlify" />
+<img src="https://img.shields.io/badge/REST_API-6C63FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/API_Integration-2EC4B6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Responsive_Design-FF9F1C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Authentication-FFBF69?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Problem_Solving-E71D36?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-011627?style=for-the-badge" />
 </p>
 
-### 🚀 Additional Skills
+<br/>
 
-![REST API](https://img.shields.io/badge/REST_API-blue?style=for-the-badge)
-![API Integration](https://img.shields.io/badge/API_Integration-green?style=for-the-badge)
-![Responsive Design](https://img.shields.io/badge/Responsive_Design-orange?style=for-the-badge)
-![Authentication](https://img.shields.io/badge/Authentication-yellow?style=for-the-badge)
-![Problem Solving](https://img.shields.io/badge/Problem_Solving-purple?style=for-the-badge)
-![DSA](https://img.shields.io/badge/Data_Structures_&_Algorithms-red?style=for-the-badge)
-
----
-
-# 💼 Featured Personal Projects
+## 💼 Featured Projects
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🚀 Convix – SaaS Landing Page
-
+### 🚀 Convix — SaaS Landing Page
 <img src="assets/convix_preview.png" width="100%"/>
 
-Modern SaaS Landing Page with responsive design and engaging UI.
-<a href = "https://convixsaaslanding.netlify.app/">Live demo</a>
-**Features**
-- Responsive Design
-- Interactive Components
-- Modern UI/UX
-- Mobile Friendly
-- Fast Performance
+Modern SaaS landing page with responsive design and engaging UI.
 
-**Tech Stack**
+**Highlights:** Responsive design · Interactive components · Modern UI/UX · Mobile-friendly · Fast performance
 
-`React` `JavaScript` `Tailwind Css`
+`React` `JavaScript` `Tailwind CSS`
+
+🔗 [Live Demo](https://convixsaaslanding.netlify.app/)
 
 </td>
+<td width="50%" valign="top">
 
-<td width="50%">
-
-### 🤝 Nexus – Connect Entrepreneurs & Investors
-
+### 🤝 Nexus — Connect Entrepreneurs & Investors
 <img src="assets/nexus.png" width="100%"/>
 
 Platform connecting entrepreneurs with investors.
-<a href = "https://nexus-two-dun.vercel.app/">Live demo </a>
-**Features**
-- Startup Showcase
-- Investor Discovery
-- Networking
-- Business Opportunities
-- Entrepreneur Profiles
 
-**Tech Stack**
+**Highlights:** Startup showcase · Investor discovery · Networking · Business opportunities · Entrepreneur profiles
 
 `React` `TypeScript`
 
+🔗 [Live Demo](https://nexus-two-dun.vercel.app/)
+
 </td>
 </tr>
-
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🛡️ TruthGuard – Scam & Fraud Prevention Platform
-
+### 🛡️ TruthGuard — Scam & Fraud Prevention Platform
 <img src="assets/truthguard_preview.png" width="100%"/>
 
 Awareness platform focused on online safety.
-<a href = "https://truthguard12.pythonanywhere.com/">live demo </a>
-**Features**
-- Scam Detection
-- Fraud Reporting
-- User Education
-- Safety Resources
-- Awareness Campaigns
 
-**Tech Stack**
+**Highlights:** Scam detection · Fraud reporting · User education · Safety resources · Awareness campaigns
 
-`JavaScript` `Django` `Sqlite` `Tailwind CSS`
+`JavaScript` `Django` `SQLite` `Tailwind CSS`
+
+🔗 [Live Demo](https://truthguard12.pythonanywhere.com/)
 
 </td>
+<td width="50%" valign="top">
 
-<td width="50%">
-  
-### ResQNet | Disaster Relief & Emergency Response Platform,
-
+### 🌐 ResQNet — Disaster Relief & Emergency Response
 <img src="assets/git im.png" width="100%"/>
 
-Awareness platform focused on online safety.
-<a href = "https://theresqnet.netlify.app/">live demo </a>
-**Features**
-- Report Disasters
-- Shelters
-- Missing persons
-- Announcements
-- Awareness Campaigns
-- Volunteer Registration & Management
-**Tech Stack**
+Front-end platform for disaster relief and emergency coordination.
 
-`JavaScript` `tailwincss` `html` 
+**Highlights:** Report disasters · Shelter listings · Missing persons · Announcements · Volunteer registration
 
-</td>
+`JavaScript` `Tailwind CSS` `HTML`
 
-<td width="50%">
-  
-</tr>
-<tr>
-### 🚀 More Projects Coming Soon
-
-Building exciting Full-Stack Applications and Software Engineering Projects.
+🔗 [Live Demo](https://theresqnet.netlify.app/)
 
 </td>
 </tr>
 </table>
 
----
+<div align="center">
 
-# 📊 GitHub Statistics
+🚧 **More full-stack and software engineering projects coming soon** 🚧
 
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=SANAPARVEEN-cmd&show_icons=true&theme=tokyonight&hide_border=true" />
-  
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=SANAPARVEEN-cmd&theme=tokyonight&hide_border=true" />
-</p>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SANAPARVEEN-cmd&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<br/>
 
----
+## 📊 GitHub Stats
 
-# 🏆 GitHub Trophies
+<div align="center">
 
-<p align="center">
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=SANAPARVEEN-cmd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SANAPARVEEN-cmd&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=SANAPARVEEN-cmd&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+> **Note:** GitHub's stats/streak widgets are hosted on shared free servers and can occasionally rate-limit or lag by a day — that's normal for these community tools, not a problem with your profile.
+
+<br/>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=SANAPARVEEN-cmd&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
+</div>
 
----
+<br/>
 
-# 📈 Contribution Graph
+## 📈 Contribution Activity
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SANAPARVEEN-cmd&theme=tokyo-night&hide_border=true" />
+</div>
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SANAPARVEEN-cmd/SANAPARVEEN-cmd/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/SANAPARVEEN-cmd/SANAPARVEEN-cmd/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
+</picture>
+
+</div>
+
+> **Why this one wasn't showing before:** the old link pointed to Platane's own demo repo, not yours — so it could never reflect your contributions. The snake has to be generated *in your own* special `SANAPARVEEN-cmd/SANAPARVEEN-cmd` repository via a GitHub Action. One-time setup:
+>
+> 1. Create a repo named exactly `SANAPARVEEN-cmd` (same as your username) if you don't have one yet — that's your special profile repo.
+> 2. Add this file at `.github/workflows/snake.yml`:
+>
+> ```yaml
+> name: Generate Snake
+> on:
+>   schedule:
+>     - cron: "0 0 * * *"
+>   workflow_dispatch:
+>   push:
+>     branches: [ main ]
+> jobs:
+>   generate:
+>     runs-on: ubuntu-latest
+>     steps:
+>       - uses: Platane/snk@v3
+>         with:
+>           github_user_name: SANAPARVEEN-cmd
+>           outputs: |
+>             dist/github-contribution-grid-snake.svg
+>             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+>       - uses: crazy-max/ghaction-github-pages@v4
+>         with:
+>           target_branch: output
+>           build_dir: dist
+>         env:
+>           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+> ```
+>
+> 3. Run the workflow once manually (Actions tab → Generate Snake → Run workflow). After that it refreshes daily and the image above will render your real contribution graph.
+
+<br/>
+
+## 🌟 Fun Facts
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SANAPARVEEN-cmd&theme=tokyo-night" />
+<img src="https://img.shields.io/badge/💻_Loves-Building_Real--World_Projects-6C63FF?style=flat-square" />
+<img src="https://img.shields.io/badge/📚-Lifelong_Learner-2EC4B6?style=flat-square" />
+<img src="https://img.shields.io/badge/🎯-Focused_on_Growth-FF9F1C?style=flat-square" />
+<img src="https://img.shields.io/badge/🌱-Exploring_New_Tech_Daily-E71D36?style=flat-square" />
 </p>
 
----
+<br/>
 
-# 🐍 Contribution Snake
+## 🤝 Let's Connect
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-</p>
+<div align="center">
 
----
+<a href="mailto:sanaparveen.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/sanaparveen89"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/SANAPARVEEN-cmd"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-# 🌟 Fun Facts
+<br/><br/>
 
-💻 Love Building Real-World Projects
+⭐ **Building today, learning every day, engineering the future.** ⭐
 
-📚 Lifelong Learner
-
-🚀 Passionate About Software Engineering
-
-🎯 Focused On Continuous Growth
-
-🌱 Exploring New Technologies Every Day
-
----
-
-# 🤝 Let's Connect
-
-<p align="center">
-  <a href="mailto:sanaparveen.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
-  <a href="https://linkedin.com/in/sanaparveen89">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="https://github.com/SANAPARVEEN-cmd">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-⭐ <b>Building Today, Learning Every Day, Engineering the Future.</b> ⭐
-</p>
+</div>
